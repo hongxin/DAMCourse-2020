@@ -14,7 +14,7 @@ Dr. Hongxin Zhang ( http://www.cad.zju.edu.cn/home/zhx )
 Miss Shanchen Zou and Mr. Kan Zhou
 
 ## Classroom & Time
-- Room 520, Foreign trade building, Yu-Quan District, Zhejiang University
+- Room 103, Cao Guang-Biao Building (West), Yu-Quan District, Zhejiang University
 - 2:05PM - 3:40PM, Tuesday / 3:55PM - 5:30PM, Thursday
 
 ## Schedule

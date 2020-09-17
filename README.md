@@ -5,13 +5,13 @@ The course focuses on how to access, protect, retrieve and re-use digital media 
 
 The course is open to undergraduate students of College of Computer Science, Zhejiang University
 
-The DAM 2019 course website is at http://www.cad.zju.edu.cn/home/zhx/DAM/2019/
+The DAM 2020 course website is at http://www.yquan.org/zjudam2020/
 
 ## Instructor
 Dr. Hongxin Zhang ( http://www.cad.zju.edu.cn/home/zhx )
 
 ## TA
-Mr. Kan Zhou
+Miss Shanchen Zou and Mr. Kan Zhou
 
 ## Classroom & Time
 - Room 520, Foreign trade building, Yu-Quan District, Zhejiang University
